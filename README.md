@@ -1,1 +1,3 @@
 # Malicious-URL-Detection-using-ML
+Malicious URL Detection using Machine Learning is a security-focused project that identifies harmful URLs such as phishing, malware, and spam links. The model extracts URL-based features (length, suspicious keywords, use of IP, number of special characters, etc.) and uses multiple ML algorithms like Random Forest, LightGBM, XGBoost, and CatBoost. These models are combined using a stacking ensemble to improve accuracy.
+The system predicts the type of URL and also provides quick human-readable explanations like “shortened URL detected” or “contains suspicious words.”
