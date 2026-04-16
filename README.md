@@ -5,7 +5,7 @@ A Machine Learning-based web application that detects whether a URL is **malicio
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit link here)
+👉 http://192.168.1.8:8501
 
 ---
 
